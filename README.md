@@ -49,3 +49,5 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 * gatsby cloud - super handy
 * generic react concepts with children/props
 * pages/*.js // all of these become pages
+* plugins go into gatsby config
+* * syntax may vary depending on usage/needs
